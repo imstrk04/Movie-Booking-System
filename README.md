@@ -1,1 +1,0 @@
-# DBMS-Movie-Booking-System
